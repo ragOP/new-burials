@@ -49,6 +49,10 @@
         "source": "/",
         "destination": "/index.html"
        
+      },
+      {
+        "source": "/sfe1",
+        "destination": "/page.html"
       }
     ]
   }
